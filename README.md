@@ -7,9 +7,7 @@
 
 ## Please fill in your project documentation in this README.md file 
 
-Refer to [README](docs/source/index.rst#section-quickstart) for a quickstart of how to use caravel_user_project
 
-Refer to [README](docs/source/index.rst) for this sample project documentation. 
 This project is about a 4 eight bit inputs which get compared in the main block. After the comparison the highest input value is transferred to the output. This is done for AI generated design contest. The code has been generated from chatGPT using the prompt: 
 "Could you generate verilog RTL for a block that meets the following requirements:
 (1) It takes 4 different eight bit inputs.
